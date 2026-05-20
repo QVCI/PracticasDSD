@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Top_Reg" T_Register="34(0)" T_Alu="24(0)" T_Lut="28(0)">
+ <SubModule name="U_DIV" Register="26" Alu="24" Lut="10" T_Register="26(26)" T_Alu="24(24)" T_Lut="10(10)"/>
+ <SubModule name="U1" Register="8" Lut="18" T_Register="8(8)" T_Lut="18(18)"/>
+</Module>

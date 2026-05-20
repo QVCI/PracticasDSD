@@ -1,0 +1,41 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+ENTITY Reg IS PORT(
+    CLK, CLR, SICD, SICI : IN STD_LOGIC;
+    CON : IN STD_LOGIC_VECTOR(1 DOWNTO 0);
+    P   : IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+    Q   : INOUT STD_LOGIC_VECTOR(7 DOWNTO 0)
+);
+END ENTITY;
+
+ARCHITECTURE A_Reg OF Reg IS
+SIGNAL D : STD_LOGIC_VECTOR(7 DOWNTO 0);
+BEGIN
+
+    MUX: PROCESS(CON, Q)
+    BEGIN
+        CASE CON IS
+            WHEN "00" => D <= P;
+            WHEN "01" =>
+                D    <= TO_STDLOGICVECTOR(TO_BITVECTOR(Q) SRL 1);
+                D(7) <= SICD;
+            WHEN "10" =>
+                D    <= TO_STDLOGICVECTOR(TO_BITVECTOR(Q) SLL 1);
+                D(0) <= SICI;
+            WHEN OTHERS => D <= Q;
+        END CASE;
+    END PROCESS MUX;
+
+    PROCESS(CLK, CLR)
+    BEGIN
+        IF (CLR = '0') THEN
+            Q <= "00000000";
+        ELSIF RISING_EDGE(CLK) THEN
+            Q <= D;
+        END IF;
+    END PROCESS;
+
+END A_Reg;

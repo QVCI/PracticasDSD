@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/TOPLEVEL.vhd",
+  "InstLine" : 6,
+  "InstName" : "TOPLEVEL",
+  "ModuleFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/TOPLEVEL.vhd",
+  "ModuleLine" : 6,
+  "ModuleName" : "TOPLEVEL",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/TOPLEVEL.vhd",
+    "InstLine" : 19,
+    "InstName" : "U0",
+    "ModuleFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/P2.vhd",
+    "ModuleLine" : 3,
+    "ModuleName" : "P2"
+   },
+   {
+    "InstFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/TOPLEVEL.vhd",
+    "InstLine" : 20,
+    "InstName" : "U1",
+    "ModuleFile" : "C:/Users/carlo/Desktop/Digitales/Prac2/Practica2/src/DIV.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "DIV"
+   }
+  ]
+ }
+]

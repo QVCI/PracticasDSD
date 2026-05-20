@@ -1,0 +1,40 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd'
+Analyzing entity 'reg'("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":6)
+Analyzing architecture 'a_reg'("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":14)
+Analyzing VHDL file 'C:\Users\carlo\Desktop\Digitales\Practica3\src\TOPLEVEL.vhd'
+Analyzing entity 'top_reg'("C:\Users\carlo\Desktop\Digitales\Practica3\src\TOPLEVEL.vhd":4)
+Analyzing architecture 'a_top'("C:\Users\carlo\Desktop\Digitales\Practica3\src\TOPLEVEL.vhd":15)
+Analyzing VHDL file 'C:\Users\carlo\Desktop\Digitales\Practica3\src\PAQUETES.vhd'
+Analyzing package 'paquetes'("C:\Users\carlo\Desktop\Digitales\Practica3\src\PAQUETES.vhd":4)
+Analyzing VHDL file 'C:\Users\carlo\Desktop\Digitales\Practica3\src\DIV.vhd'
+Analyzing entity 'div'("C:\Users\carlo\Desktop\Digitales\Practica3\src\DIV.vhd":6)
+Analyzing architecture 'a_div'("C:\Users\carlo\Desktop\Digitales\Practica3\src\DIV.vhd":15)
+Processing 'Top_Reg(A_Top)'("C:\Users\carlo\Desktop\Digitales\Practica3\src\TOPLEVEL.vhd":4)
+Processing 'DIV(A_DIV)'("C:\Users\carlo\Desktop\Digitales\Practica3\src\DIV.vhd":6)
+Processing 'Reg(A_Reg)'("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":6)
+WARN  (EX4749) : 'p' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":21)
+WARN  (EX4749) : 'sicd' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":24)
+WARN  (EX4749) : 'sici' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":27)
+WARN  (EX4387) : Incomplete sensitivity list specified, assuming completeness("C:\Users\carlo\Desktop\Digitales\Practica3\src\Reg.vhd":30)
+NOTE  (EX0101) : Current top module is "Top_Reg"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\carlo\Desktop\Digitales\Practica3\impl\gwsynthesis\Practica3.vg" completed
+[100%] Generate report file "C:\Users\carlo\Desktop\Digitales\Practica3\impl\gwsynthesis\Practica3_syn.rpt.html" completed
+GowinSynthesis finish
