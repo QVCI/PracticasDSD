@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/TOPLEVEL.vhd",
+  "InstLine" : 4,
+  "InstName" : "Top_Reg",
+  "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/TOPLEVEL.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "Top_Reg",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/TOPLEVEL.vhd",
+    "InstLine" : 37,
+    "InstName" : "U_DIV",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/DIV.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "DIV"
+   },
+   {
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/TOPLEVEL.vhd",
+    "InstLine" : 44,
+    "InstName" : "U1",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/Hola.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "HOLA"
+   }
+  ]
+ }
+]

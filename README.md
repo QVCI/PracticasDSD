@@ -18,6 +18,6 @@
 ## 6.- Contador de Decada
 > [!CAUTION]
 > Pendiente de programar
-## 7.- Contador no Secuencial
-> [!CAUTION]
-> Pendiente de programar
+## [7.- Contador no Secuencial](https://github.com/QVCI/PracticasDSD/tree/main/ContadorNoSecuencial)
+> [!WARNING]  
+> Aún ni lo pruebo 
