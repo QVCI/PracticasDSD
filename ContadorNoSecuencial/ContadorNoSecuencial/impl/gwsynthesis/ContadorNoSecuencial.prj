@@ -4,8 +4,8 @@
     <Version>beta</Version>
     <Device id="GW1NR-9C" package="QFN88P" speed="6" partNumber="GW1NR-LV9QN88PC6/I5"/>
     <FileList>
-        <File path="C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd" type="vhdl"/>
         <File path="C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd" type="vhdl"/>
+        <File path="C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd" type="vhdl"/>
         <File path="C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\PAQUETES.vhd" type="vhdl"/>
         <File path="C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\TOPLEVEL.vhd" type="vhdl"/>
     </FileList>

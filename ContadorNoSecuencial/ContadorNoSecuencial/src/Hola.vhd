@@ -19,6 +19,7 @@ ARCHITECTURE A_HOLA OF HOLA IS TYPE ESTADOS IS (S0, S1, S2, S3);
 
     BEGIN DE: PROCESS(EDO_PRE)
         BEGIN
+     
             CASE EDO_PRE IS
                 WHEN S0 => DISPLAY <= H;
                            EDO_FUT <= S1; 

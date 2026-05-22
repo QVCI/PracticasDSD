@@ -3,12 +3,12 @@
  "Files" : [
   {
    "Library" : "work",
-   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/Hola.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/DIV.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/DIV.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/ContadorNoSecuencial/ContadorNoSecuencial/src/Hola.vhd",
    "Type" : "vhdl"
   },
   {

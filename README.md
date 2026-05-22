@@ -19,5 +19,5 @@
 > [!CAUTION]
 > Pendiente de programar
 ## [7.- Contador no Secuencial](https://github.com/QVCI/PracticasDSD/tree/main/ContadorNoSecuencial)
-> [!WARNING]  
-> Aún ni lo pruebo 
+> [!IMPORTANT]  
+> Entregado, se que funciona bien

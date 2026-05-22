@@ -1,18 +1,18 @@
 GowinSynthesis start
 Running parser ...
+Analyzing VHDL file 'C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd'
+Analyzing entity 'div'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":7)
+Analyzing architecture 'a_div'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":16)
 Analyzing VHDL file 'C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd'
 Analyzing entity 'hola'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd":4)
 Analyzing architecture 'a_hola'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd":12)
-Analyzing VHDL file 'C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd'
-Analyzing entity 'div'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":6)
-Analyzing architecture 'a_div'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":15)
 Analyzing VHDL file 'C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\PAQUETES.vhd'
 Analyzing package 'paquetes'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\PAQUETES.vhd":4)
 Analyzing VHDL file 'C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\TOPLEVEL.vhd'
 Analyzing entity 'top_reg'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\TOPLEVEL.vhd":4)
 Analyzing architecture 'a_top'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\TOPLEVEL.vhd":13)
 Processing 'Top_Reg(A_Top)'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\TOPLEVEL.vhd":4)
-Processing 'DIV(A_DIV)'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":6)
+Processing 'DIV(A_DIV)'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\DIV.vhd":7)
 Processing 'HOLA(A_HOLA)'("C:\Users\carlo\Desktop\PracticasDSD\ContadorNoSecuencial\ContadorNoSecuencial\src\Hola.vhd":4)
 NOTE  (EX0101) : Current top module is "Top_Reg"
 [5%] Running netlist conversion ...
