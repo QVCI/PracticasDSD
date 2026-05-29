@@ -1,68 +1,68 @@
 [
  {
-  "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+  "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/DIS.vhd",
+  "InstLine" : 4,
+  "InstName" : "CTRL_DISP",
+  "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/DIS.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "CTRL_DISP"
+ },
+ {
+  "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
   "InstLine" : 6,
   "InstName" : "TOPLEVEL",
-  "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+  "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
   "ModuleLine" : 6,
   "ModuleName" : "TOPLEVEL",
   "SubInsts" : [
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 27,
     "InstName" : "U1",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/MUX.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/MUX.vhd",
     "ModuleLine" : 4,
     "ModuleName" : "MUX"
    },
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 29,
     "InstName" : "U2",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/COM.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/COM.vhd",
     "ModuleLine" : 4,
     "ModuleName" : "CM"
    },
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 31,
     "InstName" : "U3",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/DEC.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/DEC.vhd",
     "ModuleLine" : 4,
     "ModuleName" : "DEC"
    },
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 33,
     "InstName" : "U4",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/DEC.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/DEC.vhd",
     "ModuleLine" : 4,
     "ModuleName" : "DEC"
    },
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 35,
     "InstName" : "U5",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/DIV.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/DIV.vhd",
     "ModuleLine" : 6,
     "ModuleName" : "DIV"
    },
    {
-    "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/TOPLEVEL.vhd",
+    "InstFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/TOPLEVEL.vhd",
     "InstLine" : 37,
     "InstName" : "U6",
-    "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/CA.vhd",
+    "ModuleFile" : "C:/Users/carlo/Desktop/PracticasDSD/ComparadorDeMagnitud/src/CA.vhd",
     "ModuleLine" : 4,
     "ModuleName" : "CA"
    }
   ]
- },
- {
-  "InstFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/DIS.vhd",
-  "InstLine" : 4,
-  "InstName" : "CTRL_DISP",
-  "ModuleFile" : "C:/Users/veget/OneDrive/Escritorio/P1DEF/src/DIS.vhd",
-  "ModuleLine" : 4,
-  "ModuleName" : "CTRL_DISP"
  }
 ]

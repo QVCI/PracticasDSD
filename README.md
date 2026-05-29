@@ -15,9 +15,9 @@
 ## 5.- Divisores de Frecuencia
 > [!CAUTION]
 > Pendiente de programar
-## 6.- Contador de Decada
-> [!CAUTION]
-> Pendiente de programar
+## [6.- Contador de Decada](https://github.com/QVCI/PracticasDSD/tree/main/ContadorDeDecada)
+> [!WARNING]  
+> Es de Samuel, aún ni lo pruebo 
 ## [7.- Contador no Secuencial](https://github.com/QVCI/PracticasDSD/tree/main/ContadorNoSecuencial)
 > [!IMPORTANT]  
 > Entregado, se que funciona bien
