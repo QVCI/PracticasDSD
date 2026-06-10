@@ -17,7 +17,7 @@
 > Pendiente de programar
 ## [6.- Contador de Decada](https://github.com/QVCI/PracticasDSD/tree/main/ContadorDeDecada)
 > [!IMPORTANT]  
-> Entregado, la maestra pide el [diagrama](https://github.com/QVCI/PracticasDSD/tree/main/ContadorDeDecada/Diagrama)
+> Entregado, la maestra pide el [diagrama](https://github.com/QVCI/PracticasDSD/blob/main/ContadorDeDecada/Diagrama.jpeg)
 ## [7.- Contador no Secuencial](https://github.com/QVCI/PracticasDSD/tree/main/ContadorNoSecuencial)
 > [!IMPORTANT]  
 > Entregado, se que funciona bien
