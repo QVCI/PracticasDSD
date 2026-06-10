@@ -1,0 +1,72 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY Top_Reg IS PORT(
+
+    CLK         : IN STD_LOGIC;
+    CLR         : IN STD_LOGIC;
+
+    LED         : OUT STD_LOGIC;
+
+    DISPLAY     : OUT STD_LOGIC_VECTOR(6 DOWNTO 0);
+
+    TRAN        : OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+
+    LEDAPAGADO  : OUT STD_LOGIC_VECTOR(5 DOWNTO 0)
+
+);
+END ENTITY;
+
+ARCHITECTURE A_Top OF Top_Reg IS
+
+    COMPONENT HOLA
+    PORT
+    (
+        TRAN    : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+        DISPLAY : OUT STD_LOGIC_VECTOR(6 DOWNTO 0)
+    );
+    END COMPONENT;
+
+    COMPONENT CA
+    PORT
+    (
+        CLKOUT : IN STD_LOGIC;
+        TRAN   : OUT STD_LOGIC_VECTOR(3 DOWNTO 0)
+    );
+    END COMPONENT;
+
+    COMPONENT DIV
+    PORT
+    (
+        CLK:    IN  STD_LOGIC;
+        CLKOUT: OUT STD_LOGIC;
+        LED    : OUT STD_LOGIC;
+        LEDAPAGADO : OUT STD_LOGIC_VECTOR(5 DOWNTO 0)
+    );
+    END COMPONENT;
+
+    SIGNAL CLK_DIV  : STD_LOGIC;
+    SIGNAL TRAN_INT : STD_LOGIC_VECTOR(3 DOWNTO 0);
+
+BEGIN
+
+    U_DIV : DIV PORT MAP(
+        CLK        => CLK,
+        CLKOUT     => CLK_DIV,
+        LED        => LED,
+        LEDAPAGADO => LEDAPAGADO
+    );
+
+    U_CA : CA PORT MAP(
+        CLKOUT => CLK_DIV,
+        TRAN   => TRAN_INT
+    );
+
+    U_HOLA : HOLA PORT MAP(
+        TRAN    => TRAN_INT,
+        DISPLAY => DISPLAY
+    );
+
+    TRAN <= TRAN_INT;
+
+END A_Top;

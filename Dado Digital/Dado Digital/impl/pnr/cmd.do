@@ -1,8 +1,8 @@
--d C:\Users\carlo\Desktop\PracticasDSD\Dado Digital\Dado Digital\impl\gwsynthesis\Dado Digital.vg
+-d /Users/valeponche/Downloads/PracticasDSD-main-2/Dado Digital/Dado Digital/impl/gwsynthesis/Dado Digital.vg
 -p GW1NR-9C-QFN88P-6
 -pn GW1NR-LV9QN88PC6/I5
--cst C:\Users\carlo\Desktop\PracticasDSD\Dado Digital\Dado Digital\src\Dado Digital.cst
--cfg C:\Users\carlo\Desktop\PracticasDSD\Dado Digital\Dado Digital\impl\pnr\device.cfg
+-cst /Users/valeponche/Downloads/PracticasDSD-main-2/Dado Digital/Dado Digital/src/Dado Digital.cst
+-cfg /Users/valeponche/Downloads/PracticasDSD-main-2/Dado Digital/Dado Digital/impl/pnr/device.cfg
 -bit
 -tr
 -ph

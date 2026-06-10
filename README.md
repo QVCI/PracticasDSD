@@ -16,8 +16,17 @@
 > [!CAUTION]
 > Pendiente de programar
 ## [6.- Contador de Decada](https://github.com/QVCI/PracticasDSD/tree/main/ContadorDeDecada)
-> [!WARNING]  
-> Es de Samuel, aún ni lo pruebo 
+> [!IMPORTANT]  
+> Entregado, la maestra pide el [diagrama](https://github.com/QVCI/PracticasDSD/tree/main/ContadorDeDecada/Diagrama)
 ## [7.- Contador no Secuencial](https://github.com/QVCI/PracticasDSD/tree/main/ContadorNoSecuencial)
 > [!IMPORTANT]  
 > Entregado, se que funciona bien
+## [8.- Marquesina](https://github.com/QVCI/PracticasDSD/tree/main/Marquesina/Marquesina)
+> [!WARNING]  
+> Es de Samuel, aún ni lo pruebo  
+## [9.- Dado digital](https://github.com/QVCI/PracticasDSD/tree/main/Dado%20Digital/Dado%20Digital)
+> [!IMPORTANT]  
+> Entregado, se que funciona bien
+## 10.- Codigo 01011
+> [!CAUTION]
+> Pendiente de programar 

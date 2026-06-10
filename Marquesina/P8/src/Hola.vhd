@@ -1,0 +1,44 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY HOLA IS PORT
+(
+    TRAN    : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+    DISPLAY : OUT STD_LOGIC_VECTOR(6 DOWNTO 0)
+);
+END ENTITY;
+
+ARCHITECTURE A_HOLA OF HOLA IS
+
+    CONSTANT H : STD_LOGIC_VECTOR(6 DOWNTO 0) := "0110111";
+    CONSTANT O : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1111110";
+    CONSTANT L : STD_LOGIC_VECTOR(6 DOWNTO 0) := "0001110";
+    CONSTANT A : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1110111";
+
+BEGIN
+
+    PROCESS(TRAN)
+    BEGIN
+
+        CASE TRAN IS
+
+            WHEN "0001" =>
+                DISPLAY <= A;
+
+            WHEN "0010" =>
+                DISPLAY <= L;
+
+            WHEN "0100" =>
+                DISPLAY <= O;
+
+            WHEN "1000" =>
+                DISPLAY <= H;
+
+            WHEN OTHERS =>
+                DISPLAY <= "0000000";
+
+        END CASE;
+
+    END PROCESS;
+
+END A_HOLA;

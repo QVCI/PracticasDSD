@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="DADO" Register="37" Alu="31" Lut="25" T_Register="37(37)" T_Alu="31(31)" T_Lut="25(25)"/>
+<Module name="DADO" Register="36" Alu="31" Lut="22" T_Register="36(36)" T_Alu="31(31)" T_Lut="22(22)"/>
