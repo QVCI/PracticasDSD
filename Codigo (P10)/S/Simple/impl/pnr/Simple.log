@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\gwsynthesis\Simple.vg"
+Parsing netlist file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\gwsynthesis\Simple.vg" completed
+Processing netlist completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'CLK' was determined to be a clock but was not created.
+WARN  (TA1132) :  'CLK_DIV' was determined to be a clock but was not created.
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\pnr\Simple.power.html" completed
+Generate file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\pnr\Simple.pin.html" completed
+Generate file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\pnr\Simple.rpt.html" completed
+Generate file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\pnr\Simple.rpt.txt" completed
+Generate file "C:\Users\carlo\Desktop\PracticasDSD\Codigo (P10)\S\Simple\impl\pnr\Simple.tr.html" completed
+Mon Jun 22 22:46:04 2026
+

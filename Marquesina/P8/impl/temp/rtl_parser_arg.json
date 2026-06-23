@@ -3,27 +3,27 @@
  "Files" : [
   {
    "Library" : "work",
-   "Path" : "D:/P8/src/CA.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/src/CA.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/P8/src/DIV.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/src/DIV.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/P8/src/Hola.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/src/Hola.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/P8/src/PAQUETES.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/src/PAQUETES.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/P8/src/TOPLEVEL.vhd",
+   "Path" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/src/TOPLEVEL.vhd",
    "Type" : "vhdl"
   }
  ],
@@ -31,7 +31,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "D:/P8/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/carlo/Desktop/PracticasDSD/Marquesina/P8/impl/temp/rtl_parser.result",
  "Top" : "",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"

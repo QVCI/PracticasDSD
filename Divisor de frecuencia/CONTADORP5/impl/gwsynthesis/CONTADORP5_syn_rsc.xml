@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="CONTADORP5" Lut="2" T_Register="34(0)" T_Lut="61(2)">
+ <SubModule name="u_div" Register="26" Lut="50" T_Register="26(26)" T_Lut="50(50)"/>
+ <SubModule name="gen_ff[0].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[1].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[2].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[3].ff" Register="1" Lut="2" T_Register="1(1)" T_Lut="2(2)"/>
+ <SubModule name="gen_ff[4].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[5].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[6].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+ <SubModule name="gen_ff[7].ff" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+</Module>

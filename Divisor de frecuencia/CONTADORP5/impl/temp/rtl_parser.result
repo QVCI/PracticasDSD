@@ -1,0 +1,84 @@
+[
+ {
+  "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+  "InstLine" : 4,
+  "InstName" : "CONTADORP5",
+  "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "CONTADORP5",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 40,
+    "InstName" : "u_div",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/DIV.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "DIV"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[0].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[1].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[2].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[3].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[4].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[5].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[6].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   },
+   {
+    "InstFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/CONTADORP5.vhd",
+    "InstLine" : 59,
+    "InstName" : "gen_ff[7].ff",
+    "ModuleFile" : "C:/Users/penai/OneDrive/Documentos/Universidad/sistemas digitales/CONTADORP5/src/JKFF.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "JKFF"
+   }
+  ]
+ }
+]
